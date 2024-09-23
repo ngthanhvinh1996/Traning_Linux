@@ -1,1 +1,0 @@
-savedcmd_/home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/Module.symvers -T /home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/modules.order -i Module.symvers -e 

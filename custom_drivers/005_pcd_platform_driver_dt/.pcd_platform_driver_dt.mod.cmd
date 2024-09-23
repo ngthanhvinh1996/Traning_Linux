@@ -1,1 +1,0 @@
-cmd_/home/vinhnt/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.mod := { echo  /home/vinhnt/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.o;  echo; } > /home/vinhnt/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.mod

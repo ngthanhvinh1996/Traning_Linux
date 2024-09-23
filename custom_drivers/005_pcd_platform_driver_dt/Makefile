@@ -1,7 +1,7 @@
 obj-m := pcd_platform_driver_dt.o
 ARCH=arm
 CROSS_COMPILE=arm-linux-gnueabihf-
-KERN_DIR =/home/vinhnt/workspace/ldd/source/linux_bbb_5.10/
+KERN_DIR =../../source/linux_bbb_5.10/
 HOST_KERN_DIR = /lib/modules/$(shell uname -r)/build/
 
 all:
