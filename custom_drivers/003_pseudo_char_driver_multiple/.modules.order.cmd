@@ -1,0 +1,1 @@
+savedcmd_/home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/modules.order := {   echo /home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/pcd_n.o; :; } > /home/vinhnt/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/modules.order
